@@ -1,2 +1,7 @@
 # PythonGUI-DynamicTabs-Editor
-[Python] Basic editor with dynamic tabs and line numbers
+
+## Información General
+- SO: Windows 10
+- Lenguaje: Python
+- Oscar Alfredo Llamas Lemus
+- Tools PyGt5, QScintilla
